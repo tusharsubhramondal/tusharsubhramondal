@@ -86,6 +86,22 @@ React, Next.js, TypeScript and Laravel applications with reusable components and
 ---
 
 ## ⭐ Featured Work
+### 🚀 DEV MASTER — Developer Learning & Interview Prep Platform
+[![Live Web App](https://img.shields.io/badge/Live_App-learn.appzone.in-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://learn.appzone.in/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-dev--master--prep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharsubhramondal/dev-master-prep)
+
+**React 19 · Vite · Redux Toolkit · Tailwind CSS · Schema-Driven Content Engine**
+
+A modern, production-grade developer learning and technical interview preparation platform designed for software engineers from Junior to Principal Architect:
+
+* 🌐 **Live Web Application**: [https://learn.appzone.in/](https://learn.appzone.in/)
+* 📚 **26+ Tech Stacks Covered**: Full-stack, backend, cloud, databases, and distributed system architectures.
+* 🎯 **17-Part Topic Standard**: Structured deep dives with intuitive analogies, mechanisms, diagrams, and runnable code.
+* ⚡ **Queue & Infrastructure Labs**: Hands-on integration guides for Apache Kafka, RabbitMQ, and BullMQ with Docker setups.
+* 🗺️ **Interactive Visual Roadmaps**: Step-by-step career milestones from Junior to Architect.
+* ❓ **Technical Q&A Bank**: Real-world interview questions with anti-pattern warnings and difficulty bands.
+
+---
 
 ### 📞 AI Cloud PBX & UCaaS
 
