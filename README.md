@@ -107,7 +107,9 @@ A modern, production-grade developer learning and technical interview preparatio
 
 **Node.js · React · Laravel · WebRTC · FreeSWITCH · Redis · BullMQ**
 
-Enterprise communication platform featuring:
+Enterprise communication platform featuring AI-powered voice agents, intelligent call routing, real-time communication, CDR analytics, transcription, and automated summaries.
+
+🔗 Visit AngelPBX.ai
 
 * AI-powered voice agents
 * Intelligent IVR and call routing
