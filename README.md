@@ -86,6 +86,19 @@ React, Next.js, TypeScript and Laravel applications with reusable components and
 ---
 
 ## ⭐ Featured Work
+### 🛡️ Event-Driven Authentication & Session Microservice
+[![GitHub Repo](https://img.shields.io/badge/GitHub-event--driven--auth--microservice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharsubhramondal/event-driven-auth-microservice)
+
+**Node.js · Express 5 · TypeScript · Prisma 7 · PostgreSQL · Apache Kafka · RabbitMQ · Docker**
+
+A production-grade, event-driven authentication and multi-device session management microservice:
+* 🔐 **Advanced Session Management**: Multi-device session tracking with IP and user-agent logging.
+* 🔄 **Refresh Token Rotation & Theft Detection**: Automatically detects compromised/reused refresh tokens and revokes all active sessions for security.
+* 📨 **Dedicated Broker Roles**: **Apache Kafka** for audit logs and security event streaming (`USER_LOGIN`, `TOKEN_THEFT_DETECTED`), and **RabbitMQ** for asynchronous email dispatch tasks.
+* 🛡️ **Security Hardened**: Argon2id password hashing, Zod schema validation, RBAC, and `/health` observability endpoint.
+
+---
+
 ### 🚀 DEV MASTER — Developer Learning & Interview Prep Platform
 [![Live Web App](https://img.shields.io/badge/Live_App-learn.appzone.in-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://learn.appzone.in/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-dev--master--prep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharsubhramondal/dev-master-prep)
@@ -104,12 +117,12 @@ A modern, production-grade developer learning and technical interview preparatio
 ---
 
 ### 📞 AI Cloud PBX & UCaaS
+[![Website](https://img.shields.io/badge/Live_Platform-angelpbx.ai-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angelpbx.ai/)
 
 **Node.js · React · Laravel · WebRTC · FreeSWITCH · Redis · BullMQ**
 
 Enterprise communication platform featuring AI-powered voice agents, intelligent call routing, real-time communication, CDR analytics, transcription, and automated summaries.
 
-🔗 Visit AngelPBX.ai
 
 * AI-powered voice agents
 * Intelligent IVR and call routing
@@ -123,6 +136,7 @@ Enterprise communication platform featuring AI-powered voice agents, intelligent
 ---
 
 ### 🎥 Video & AI Meeting Platform
+[![Website](https://img.shields.io/badge/Live_Platform-angelmeet.ai-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angelmeet.ai/)
 
 **React · Laravel · WebRTC · WebSockets · Generative AI**
 
@@ -138,6 +152,7 @@ Real-time meeting platform featuring:
 ---
 
 ### ✈️ Travel Booking Infrastructure
+[![Website](https://img.shields.io/badge/Live_Platform-flightsera.com-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flightsera.com/)
 
 **Laravel · PHP · MySQL · REST APIs · Redis**
 
@@ -154,6 +169,7 @@ Scalable travel booking infrastructure with:
 ---
 
 ### 🏥 Healthcare Management Platform
+[![Website](https://img.shields.io/badge/Live_Platform-caringfriend.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caringfriend.com/)
 
 **Node.js · Laravel · PHP · MySQL · JavaScript**
 
